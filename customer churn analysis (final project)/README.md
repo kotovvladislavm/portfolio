@@ -1,6 +1,6 @@
-Проект для Яндекс.Практикума.
-Материалы:
-Презентация - https://disk.yandex.ru/i/q50IzpYokLbEkg
+Проект для Яндекс.Практикума.  
+Материалы:  
+Презентация - https://disk.yandex.ru/i/q50IzpYokLbEkg  
 Дашборд - https://public.tableau.com/app/profile/vladislav.kotov/viz/metanprom_16847692192730/Dashboard1
 
 Анализ оттока клиентов (привлечение).  
